@@ -10,7 +10,7 @@
 ## 2.城市页面[GitHub地址](https://github.com/ShangMXiao/react-dzdp/tree/master/app/containers/City)
 ![home](https://github.com/ShangMXiao/react-dzdp/blob/master/SreenShops/city.bmp)
 ## 3.搜索结果页[GitHub地址](https://github.com/ShangMXiao/react-dzdp/tree/master/app/containers/Serach)
-![serach](https://github.com/ShangMXiao/react-dzdp/blob/master/SreenShops/Serach.bmp)
+![serach](https://github.com/ShangMXiao/react-dzdp/blob/master/SreenShops/serach.bmp)
 ## 4.详情页面[GitHub地址](https://github.com/ShangMXiao/react-dzdp/tree/master/app/containers/Detail)
 ![detail](https://github.com/ShangMXiao/react-dzdp/blob/master/SreenShops/detail.bmp)
 ## 5.登录页面[GitHub地址](https://github.com/ShangMXiao/react-dzdp/tree/master/app/containers/Login)
