@@ -15,7 +15,7 @@
 ![detail](https://github.com/ShangMXiao/react-dzdp/blob/master/SreenShops/detail.bmp)
 ## 5.登录页面[GitHub地址](https://github.com/ShangMXiao/react-dzdp/tree/master/app/containers/Login)
 ![login](https://github.com/ShangMXiao/react-dzdp/blob/master/SreenShops/login.bmp)
-## 6.收藏与购买[GitHub地址](https://github.com/ShangMXiao/react-dzdp/tree/master/app/containers/storeAndBuy)
+## 6.收藏与购买[GitHub地址](https://github.com/ShangMXiao/react-dzdp/tree/master/app/components/BuyAndStore)
 ![login](https://github.com/ShangMXiao/react-dzdp/blob/master/SreenShops/storeAndBuy.bmp)
 ## 7.个人用户中心页面[GitHub地址](https://github.com/ShangMXiao/react-dzdp/tree/master/app/containers/User)
 ![login](https://github.com/ShangMXiao/react-dzdp/blob/master/SreenShops/user.bmp)
