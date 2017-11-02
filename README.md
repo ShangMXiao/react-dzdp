@@ -9,7 +9,7 @@
 ![home](https://github.com/ShangMXiao/react-dzdp/blob/master/SreenShops/home.bmp)
 ## 2.城市页面[GitHub地址](https://github.com/ShangMXiao/react-dzdp/tree/master/app/containers/City)
 ![home](https://github.com/ShangMXiao/react-dzdp/blob/master/SreenShops/city.bmp)
-## 3.搜索结果页[GitHub地址](https://github.com/ShangMXiao/react-dzdp/tree/master/app/containers/Serach)
+## 3.搜索结果页[GitHub地址](https://github.com/ShangMXiao/react-dzdp/tree/master/app/containers/Search)
 ![serach](https://github.com/ShangMXiao/react-dzdp/blob/master/SreenShops/serach.bmp)
 ## 4.详情页面[GitHub地址](https://github.com/ShangMXiao/react-dzdp/tree/master/app/containers/Detail)
 ![detail](https://github.com/ShangMXiao/react-dzdp/blob/master/SreenShops/detail.bmp)
@@ -28,3 +28,5 @@
 #### 4.koa
 #### 5.less
 #### 6.webpack
+# 后台数据
+#### 后台数据采用nodejs的框架koa模拟
