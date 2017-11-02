@@ -19,7 +19,7 @@
 ![login](https://github.com/ShangMXiao/react-dzdp/blob/master/SreenShops/storeAndBuy.bmp)
 ## 7.个人用户中心页面[GitHub地址](https://github.com/ShangMXiao/react-dzdp/tree/master/app/containers/User)
 ![login](https://github.com/ShangMXiao/react-dzdp/blob/master/SreenShops/user.bmp)
-## 8.评价功能[GitHub地址](https://github.com/ShangMXiao/react-dzdp/tree/master/app/containers/Comment)
+## 8.评价功能[GitHub地址](https://github.com/ShangMXiao/react-dzdp/tree/master/app/components/CommentList)
 ![login](https://github.com/ShangMXiao/react-dzdp/blob/master/SreenShops/comment.bmp)
 # 技术栈
 #### 1.react
@@ -30,3 +30,5 @@
 #### 6.webpack
 # 后台数据
 #### 后台数据采用nodejs的框架koa模拟
+# 架构
+#### 架构采用单项数据流动的flux架构
